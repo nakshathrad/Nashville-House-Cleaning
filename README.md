@@ -1,5 +1,3 @@
-Here’s an updated README file for your Nashville-House-Cleaning project, incorporating the details you provided:
-
 ## Nashville House Cleaning
 
 Welcome to the Nashville House Cleaning repository! This project analyzes a dataset containing houses sold in Nashville between 2013 and 2019, focusing on data loading, cleaning, and preprocessing.
@@ -51,7 +49,3 @@ To run the SQL scripts for data loading and preprocessing, execute the relevant 
 
 - SQL Server: For managing and querying the dataset.
 - DML, DQL, DDL: For data manipulation and management.
-
----
-Thank you for visiting the Nashville House Cleaning project! We hope you find the analysis insightful and useful.
-```
